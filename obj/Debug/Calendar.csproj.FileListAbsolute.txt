@@ -1,0 +1,272 @@
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\Calendar.exe.config
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\Calendar.exe
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\Calendar.pdb
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\ControlzEx.dll
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.dll
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.dll
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Codicons.dll
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Coolicons.dll
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.dll
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.FileIcons.dll
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.dll
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Fontisto.dll
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.dll
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.dll
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.dll
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.dll
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.dll
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\ControlzEx.pdb
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\ControlzEx.xml
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.pdb
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.xml
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.pdb
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.xml
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.pdb
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.xml
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Codicons.pdb
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Codicons.xml
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Coolicons.pdb
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Coolicons.xml
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.FileIcons.pdb
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.FileIcons.xml
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.pdb
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.xml
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Fontisto.pdb
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Fontisto.xml
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.pdb
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.xml
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.pdb
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.xml
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.pdb
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.xml
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.pdb
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.xml
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.pdb
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.xml
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\de\MahApps.Metro.resources.dll
+D:\Рабочий стол\Code\WPF\Calendar\obj\Debug\Calendar.csproj.AssemblyReference.cache
+D:\Рабочий стол\Code\WPF\Calendar\obj\Debug\Calendar.csproj.SuggestedBindingRedirects.cache
+D:\Рабочий стол\Code\WPF\Calendar\obj\Debug\MainWindow.g.cs
+D:\Рабочий стол\Code\WPF\Calendar\obj\Debug\App.g.cs
+D:\Рабочий стол\Code\WPF\Calendar\obj\Debug\Calendar_MarkupCompile.cache
+D:\Рабочий стол\Code\WPF\Calendar\obj\Debug\Calendar_MarkupCompile.lref
+D:\Рабочий стол\Code\WPF\Calendar\obj\Debug\App.baml
+D:\Рабочий стол\Code\WPF\Calendar\obj\Debug\MainWindow.baml
+D:\Рабочий стол\Code\WPF\Calendar\obj\Debug\Calendar.g.resources
+D:\Рабочий стол\Code\WPF\Calendar\obj\Debug\Calendar.Properties.Resources.resources
+D:\Рабочий стол\Code\WPF\Calendar\obj\Debug\Calendar.csproj.GenerateResource.cache
+D:\Рабочий стол\Code\WPF\Calendar\obj\Debug\Calendar.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Code\WPF\Calendar\obj\Debug\Calendar.csproj.CopyComplete
+D:\Рабочий стол\Code\WPF\Calendar\obj\Debug\Calendar.exe
+D:\Рабочий стол\Code\WPF\Calendar\obj\Debug\Calendar.pdb
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\Newtonsoft.Json.dll
+D:\Рабочий стол\Code\WPF\Calendar\bin\Debug\Newtonsoft.Json.xml
+D:\Рабочий стол\Code\WPF\Calendar\obj\Debug\CalendarPagexaml.g.cs
+D:\Рабочий стол\Code\WPF\Calendar\obj\Debug\CalendarPagexaml.baml
+D:\Рабочий стол\Code\WPF\Calendar\obj\Debug\CalendarCard.g.cs
+D:\Рабочий стол\Code\WPF\Calendar\obj\Debug\selectedPage.g.cs
+D:\Рабочий стол\Code\WPF\Calendar\obj\Debug\CalendarCard.baml
+D:\Рабочий стол\Code\WPF\Calendar\obj\Debug\selectedPage.baml
+D:\Рабочий стол\Code\WPF\Calendar\obj\Debug\Calendar.Resource1.resources
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\Calendar.exe.config
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\Calendar.exe
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\Calendar.pdb
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\ControlzEx.dll
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.dll
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.dll
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Codicons.dll
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Coolicons.dll
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.dll
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.FileIcons.dll
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.dll
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Fontisto.dll
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.dll
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.dll
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.dll
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.dll
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.dll
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\Newtonsoft.Json.dll
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\ControlzEx.pdb
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\ControlzEx.xml
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.pdb
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.xml
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.pdb
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.xml
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.pdb
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.xml
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Codicons.pdb
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Codicons.xml
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Coolicons.pdb
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Coolicons.xml
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.FileIcons.pdb
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.FileIcons.xml
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.pdb
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.xml
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Fontisto.pdb
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Fontisto.xml
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.pdb
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.xml
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.pdb
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.xml
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.pdb
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.xml
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.pdb
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.xml
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.pdb
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.xml
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\Newtonsoft.Json.xml
+D:\WorkSpace\Code\WPF\Calendar\bin\Debug\de\MahApps.Metro.resources.dll
+D:\WorkSpace\Code\WPF\Calendar\obj\Debug\Calendar.csproj.AssemblyReference.cache
+D:\WorkSpace\Code\WPF\Calendar\obj\Debug\Calendar.csproj.SuggestedBindingRedirects.cache
+D:\WorkSpace\Code\WPF\Calendar\obj\Debug\CalendarCard.g.cs
+D:\WorkSpace\Code\WPF\Calendar\obj\Debug\CalendarPagexaml.g.cs
+D:\WorkSpace\Code\WPF\Calendar\obj\Debug\MainWindow.g.cs
+D:\WorkSpace\Code\WPF\Calendar\obj\Debug\selectedPage.g.cs
+D:\WorkSpace\Code\WPF\Calendar\obj\Debug\App.g.cs
+D:\WorkSpace\Code\WPF\Calendar\obj\Debug\Calendar_MarkupCompile.cache
+D:\WorkSpace\Code\WPF\Calendar\obj\Debug\Calendar_MarkupCompile.lref
+D:\WorkSpace\Code\WPF\Calendar\obj\Debug\App.baml
+D:\WorkSpace\Code\WPF\Calendar\obj\Debug\CalendarCard.baml
+D:\WorkSpace\Code\WPF\Calendar\obj\Debug\CalendarPagexaml.baml
+D:\WorkSpace\Code\WPF\Calendar\obj\Debug\MainWindow.baml
+D:\WorkSpace\Code\WPF\Calendar\obj\Debug\selectedPage.baml
+D:\WorkSpace\Code\WPF\Calendar\obj\Debug\Calendar.g.resources
+D:\WorkSpace\Code\WPF\Calendar\obj\Debug\Calendar.Properties.Resources.resources
+D:\WorkSpace\Code\WPF\Calendar\obj\Debug\Calendar.Resource1.resources
+D:\WorkSpace\Code\WPF\Calendar\obj\Debug\Calendar.csproj.GenerateResource.cache
+D:\WorkSpace\Code\WPF\Calendar\obj\Debug\Calendar.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Code\WPF\Calendar\obj\Debug\Calendar.csproj.CopyComplete
+D:\WorkSpace\Code\WPF\Calendar\obj\Debug\Calendar.exe
+D:\WorkSpace\Code\WPF\Calendar\obj\Debug\Calendar.pdb

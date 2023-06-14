@@ -1,0 +1,34 @@
+﻿<UserControl x:Class="Calendar.CalendarCard"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:mah="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+             xmlns:iconPacks="http://metro.mahapps.com/winfx/xaml/iconpacks"
+             xmlns:local="clr-namespace:Calendar"
+             mc:Ignorable="d" 
+             Height="70"
+             Width="70"
+             BorderBrush="Crimson"
+             BorderThickness="1"
+             Margin="5"
+             >
+    <Grid>
+        <Image
+            x:Name="cardImage"
+            VerticalAlignment="Bottom"
+            Stretch="Fill"
+            MaxHeight="50"
+            MaxWidth="50" 
+            Source="/Resources/placeholder.png"
+            />
+
+        <TextBlock
+            x:Name="dayBlock"
+            Height="20"
+            VerticalAlignment="Top"
+            TextAlignment="Center"
+            FontSize="12"
+            />
+    </Grid>
+</UserControl>

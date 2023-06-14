@@ -1,0 +1,45 @@
+﻿<Page x:Class="Calendar.selectedPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:mah="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+      xmlns:iconPacks="http://metro.mahapps.com/winfx/xaml/iconpacks"
+      xmlns:local="clr-namespace:Calendar"
+      mc:Ignorable="d" 
+      Margin="10"
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="selectedPage">
+
+    <Grid>
+        
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="65"/>
+            <RowDefinition/>
+            <RowDefinition Height="65"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="65"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Button x:Name="backButton" Grid.Column="0" Margin="5" Click="backButton_Click">
+                <iconPacks:PackIconEvaIcons Kind="ArrowBack" />
+            </Button>
+            <TextBlock x:Name="dateOutputBlock" Grid.Column="1" Margin="10">
+                
+            </TextBlock>
+        </Grid>
+
+        <ScrollViewer Grid.Row="1">
+            <StackPanel x:Name="itemsStack">
+                
+            </StackPanel>
+        </ScrollViewer>
+
+        <Button x:Name="saveButton" Grid.Row="2" Content="Применить и выйти" Click="saveButton_Click" FontSize="20"></Button>
+    </Grid>
+</Page>
